@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 ,GOLTV
+https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGhpZ2gubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMTk1LjEyOC4xMy43NC8zMiJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNTQ1OTUyOX19fV19&Signature=cF6BpDKge4ujP98mM7fd8evYXJ5jZJNFFX8OVbvBeBijr0Brq7-2fLvN9Zt5u5577tI4QFOO~i4DpI-RZqIlLn-lAoUCOeozPgRXHyjXQ-8nqQrDFKJnYoqy3AgEym07F3PU-OVJe8qLLjaBKExs-cmGy11ECc8Vz6UvWjZDUXJxNzWGhd4rk2ODjFr1ITwJ2LceCIYkRDIO0MzApBtBKhDSg9QpCOrlZaXAKnJb62fxD8-vxrVcQgXQi0nUw0RWE1wsSDaV1Yaisx8kkGxewWjReQsrDvKZiD-iMzkH7oCyRKcEQ6lTAgFj7njfzH8inF63uplRKYyswZc2687Dkg__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
+
+#EXTINF:-1 ,CHARM CITY KINGS
+https://860718363.tapecontent.net/radosgw/g90apg4p7wtJkk/9riRwK5HFBOI7JyR60pUn1TgNXr8lAJwibEt6qlpI5FPisc1EJeaur27v61X_vzAvHhXrXfnvqZXy1ZExjv4pZwzNhtO9v1rDPCzeyCxU7t9Ld3-u45MDj5pqhATfo0m5lcG1sKVm8PUuZ0xkU9gkasHZGhC6Vi2d7M-wnN2yuijZ-fxVWs8BBWPX0Pi83M7C_AYredXSCNQrvP0elKiEq7MrD560bND2D5OQFbP6CiQh3e6lA6C-Srkx9ofGnfmLh7YBjaGKMbxsPkf/tt9048840+720+es.mp4?stream=1
+#EXTINF:-1 ,ESCANDALOSOS
+https://www334.o0-1.com/token=WnpJEvDlP1Arz-jgAW0JAg/1605396359/195.128.0.0/142/7/3c/be16c3f77a72966c7bcf0c9edde263c7-720p.mp4
+
+#EXTINF:-1 tvg-id="LA SEXTA" tvg-name="LA SEXTA  FHD" tvg-logo="https://i.pinimg.com/originals/8f/4f/66/8f4f66408ba733251d17b0d0c4d63922.png" group-title="[ESP] TDT",LA SEXTA  FHD
+https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="M. ESTRENOS" tvg-name="MOVISTAR ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" group-title="[ESP] MOVISTAR CANALES",MOVISTAR ESTRENOS HD
+https://espare.tk/live/m_estrenos.m3u8?token=QCkTM1x7Ffih7IIdfmh8fg&expires=1605403353
+
+#EXTINF:-1 tvg-id="M. LaLiga" tvg-name="LA LIGA TV BAR FHD" tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/208-laliga-tv-bar.png" group-title="[ESP] FUTBOL VIP",LA LIGA TV BAR FHD
+https://espare.tk/live/m_liga.m3u8?token=ERrZQL6H-Fo-8sZUQBFriQ&expires=1605403854
+
+#EXTINF:-1 ,VAMOS
+https://espare.tk/live/vamos.m3u8?token=yPNvhCp0_Oac0bN8DIJhiA&expires=1605413117
+
+#EXTINF:-1 ,LIGA DE CAMPEONES
+https://u65464.cdn884.net:8443/hls/jpp4paa5hi5vih.m3u8?s=LXd_rETTfD3_TaTY48r-rQ&e=1605413486
+#EXTINF:-1 ,ESPN2
+https://live.televisiongratishd.com/tvplus2021/18_.m3u8?token=krjUseJ5Gv8-X7ZMOT-k3A&expires=1605415287
+
+#EXTINF:-1 ,MALDITOS BASTARDOS       
+https://stream-3891-64-63.pvdcdn.co/lmohovipmyikkfn2mc6pyoafhqse3gbmlhrw5f2epxtaqg2fmjgfr7t74y/lzhphqlx5g2y.m3u8
+
+#EXTINF:-1 ,CHAVO 24/7
+https://live.televisiongratishd.com/tvplus2021/150_.m3u8?token=C751TzLxNzACoA0eiqFv7Q&expires=1605415480
+
+
+
+#EXTINF:-1 ,FOX LATINO
+https://live.televisiongratishd.com/tvplus2021/42_.m3u8?token=QpJBo-7zAzvq3d38Ml2RzA&expires=1605417625
+
+#EXTINF:-1 ,PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/3063648/playlist.m3u8?terminate=false&deviceId=2cee9c2f-6255-4788-9dc3-4548c364ccec&deviceVersion=86.0.4240.198&appVersion=5.10.0-63088da67b32904787b837429cfa9c5c605b7626&deviceType=web&deviceMake=Chrome&sid=cfbfcf75-26d0-11eb-92c0-0242ac110002&advertisingId=&deviceLat=37.7429&deviceLon=-0.9540&deviceDNT=false&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 ,BOB ESPONJA
+https://00f74ba44b28a23a1b0b65f609dcb4a23c86fbf1e9-apidata.googleusercontent.com/download/storage/v1/b/kyaru/o/YrERajPzGbQ.mp4?jk=AFshE3UKiHz6n4cverWoHTynlonWv6Jtys-N5U-gZbPE_cKnoNZ80_yemKGjHgBZn801Nx2-FCJy6mlQMqgq3mSF5_X81o2bUD0iz6lXq-5fyzdbsMBSq-d3qFB9-Reh7m0sjdrWbBBzA7RMhEL3iaFQBTNwzXr9qsxeOiE0MfKojA5JTuqny06kuAveSmQGqHG3_H1wNoSm-m7rmzz39zH3Zb1I3_yESK1z7bfYT4ouDj0GxU2O2w5HcVQTjz5l3x7O_YSWR2uj-XJCRydrNGHhKWsOtOZXwf0o3T-TTSjP-UsdP4dD62IDdXXaIdHWN6wQip6Ldx-11eJa4u6stgFbEyLI7nqAhSJC7dXHUM2W7zOHuL_SWOu5N00HEBDbSssao4rgg4JWx8cvj15B80CSh9eFfDf6viSc-vf6ktXmYZWuYpdF71FWHt8WVtcomBH9e-NRsxCnRknSgHEghVIPeBI0KGGxFFR0YeV2tacbUPSncO7KYpSjrrZTx1X9BJmPtteU2-tzt9FGO4dfY-bwcAf2Unimx-pr--zmv8SExn5PZih0zDk1jCgDEf6OAOWNwJjm87J_yJB8G0j5EoQACDuSoXIwBHcHIvh0tsnaiLQamfTadfxKpnfyqDQ48KmFOBR27KVP8P_3BYHYHN-vC_LwRnK10I9zQtF9LccWGZz_OFHX91lJ4wCzmk_vrPMU0Z9asOaGTJ92Z2LclZ_vb6ROqjFA35WlGQq6QW3pFYJOvp-ng7mGz3odNQoiQ1TrIZf61SLO12aHZPr3k6lFDrAxPbayF6a297BK_fumLVsBZlprtD6Qdn1QvPE51OpAab_F2X8qju99EInpxi5EvqJFlk5WsJVElHK1CdcJc1umoY5_W0VUxdRTQaFrLBOx2ew&isca=1
