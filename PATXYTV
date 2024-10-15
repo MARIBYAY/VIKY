@@ -1,6 +1,8 @@
 #EXTINF: -1 tvg-logo = "https://diariodeavisos.elespanol.com/canariasenred/wp-content/uploads/2020/09/Screenshot_8.png" group-title = "Disponible", PatxyTV
 https://www.la961.com/realaudio.php
-#EXTINF: -1 tvg-logo = "https://diariodeavisos.elespanol.com/canariasenred/wp-content/uploads/2020/09/Screenshot_8.png" group-title = "Disponible", PatxyTV
+
+#EXTINF: -2 tvg-logo = "https://diariodeavisos.elespanol.com/canariasenred/wp-content/uploads/2020/09/Screenshot_8.png" group-title = "Disponible", radio
 https://www.radio-ecuador.org/la-suprema-estacion
-#EXTINF: -1 tvg-logo = "https://diariodeavisos.elespanol.com/canariasenred/wp-content/uploads/2020/09/Screenshot_8.png" group-title = "Disponible", PatxyTV
+
+#EXTINF: -3 tvg-logo = "https://diariodeavisos.elespanol.com/canariasenred/wp-content/uploads/2020/09/Screenshot_8.png" group-title = "Disponible", la otra
 https://web.laotrafm.com/index.php/tag/quito/
